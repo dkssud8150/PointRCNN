@@ -5,7 +5,6 @@
 /output
 *.cu.o
 **/build
-*.png
 **/*.egg-info
 **/dist
 tools/gt_database/
